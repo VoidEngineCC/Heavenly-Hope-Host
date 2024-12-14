@@ -2,8 +2,6 @@
 <center>
 (EPIC GAMES AIN'T REMOVING THIS REPOS FOR BEING A DUMB FVCK)
 
-![Heavenly Hope Logo](https://via.placeholder.com/150)
-
 ## 🚀 Overview
 
 **Heavenly Hope Fortnite Launcher** is a custom tool designed for Fortnite players to manage multiple game seasons easily. It allows users to add, launch, and remove Fortnite seasons and the most important Auto Host and start a match with just a few simple steps. 
