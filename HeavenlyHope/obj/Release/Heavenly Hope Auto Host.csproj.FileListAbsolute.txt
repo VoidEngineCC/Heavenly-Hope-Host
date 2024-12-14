@@ -1,0 +1,10 @@
+C:\Users\Failure\Desktop\DefCon\GalaxiaFN-AutoHost-main\HeavenlyHope\bin\Release\HeavenlyHope Launcher.exe.config
+C:\Users\Failure\Desktop\DefCon\GalaxiaFN-AutoHost-main\HeavenlyHope\bin\Release\HeavenlyHope Launcher.exe
+C:\Users\Failure\Desktop\DefCon\GalaxiaFN-AutoHost-main\HeavenlyHope\bin\Release\HeavenlyHope Launcher.pdb
+C:\Users\Failure\Desktop\DefCon\GalaxiaFN-AutoHost-main\HeavenlyHope\bin\Release\INIFileParser.dll
+C:\Users\Failure\Desktop\DefCon\GalaxiaFN-AutoHost-main\HeavenlyHope\bin\Release\INIFileParser.xml
+C:\Users\Failure\Desktop\DefCon\GalaxiaFN-AutoHost-main\HeavenlyHope\obj\Release\Heavenly Hope Auto Host.csproj.AssemblyReference.cache
+C:\Users\Failure\Desktop\DefCon\GalaxiaFN-AutoHost-main\HeavenlyHope\obj\Release\Heavenly Hope Auto Host.csproj.CoreCompileInputs.cache
+C:\Users\Failure\Desktop\DefCon\GalaxiaFN-AutoHost-main\HeavenlyHope\obj\Release\Heavenly.2E7A67E9.Up2Date
+C:\Users\Failure\Desktop\DefCon\GalaxiaFN-AutoHost-main\HeavenlyHope\obj\Release\HeavenlyHope Launcher.exe
+C:\Users\Failure\Desktop\DefCon\GalaxiaFN-AutoHost-main\HeavenlyHope\obj\Release\HeavenlyHope Launcher.pdb
