@@ -43,11 +43,11 @@ Download the latest released version of the **Heavenly Hope Fortnite Launcher** 
 
 ### 3. **Add Your Game Redirector**
 
-Ensure that the **redirector** DLL file is located in your Fortnite season directory (typically `FortniteGame/Binaries/Win64`). The launcher will automatically handle the injection of this file during game startup.
+Ensure that the **redirector** DLL The launcher will automatically handle the injection of this file during game startup.
 
 ### 4. **Add Your Game Server**
 
-Similarly, ensure that the **gameserver** DLL file is also located in your Fortnite season directory. The launcher will automatically handle the injection of the game server DLL as well.
+Similarly, ensure that the **gameserver** DLL file The launcher will automatically handle the injection of the game server DLL as well.
 
 ### 5. **Launch and Have Fun!**
 
