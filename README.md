@@ -31,7 +31,7 @@ Before using **Heavenly Hope Fortnite Launcher**, ensure you have the following 
 
 Download the latest released version of the **Heavenly Hope Fortnite Launcher** from the following link:
 
-[Download Launcher](https://heavenlyhope.com/launcher.zip)
+[Download Launcher]([https://heavenlyhope.com/launcher.zip](https://github.com/VoidEngineCC/Heavenly-Hope-Host/releases/download/stable/Release.rar))
 
 ### 2. **Add a Fortnite Season**
 
